@@ -24,6 +24,8 @@ Telegram-бот для проведения тестов и автоматиче
 ```bash
 git clone https://github.com/qr0ns/telegram-quiz-bot
 cd telegram-quiz-bot
+pip install -r requirements.txt
+cd app
 python main.py
 ```
 
